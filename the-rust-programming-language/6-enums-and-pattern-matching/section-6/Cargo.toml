@@ -1,0 +1,18 @@
+[package]
+name = "section-6"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "approach1"
+path = "src/approach1.rs"
+
+[[bin]]
+name = "approach2"
+path = "src/approach2.rs"
+
+[[bin]]
+name = "approach3"
+path = "src/approach3.rs"
+
+[dependencies]
